@@ -62,13 +62,13 @@ Main features of “S music player” are
   <TABLE border=3>
     <TR>
        <TD>
-        View history
+        View history screen
       </TD>
       <TD>
-        Delete history
+        Delete history screen
       </TD>
       <TD>
-        Select composer screen 
+        Select song from category screen 
       </TD>
     </TR>
     <TR>
@@ -79,7 +79,7 @@ Main features of “S music player” are
         <img src="Images/Manage History - Delete.PNG" height="626" width="288">
       </TD>
       <TD>
-        <img src="Images/Select Composer.PNG" height="626" width="288">
+        <img src="Images/Select Song from Category.PNG" height="626" width="288">
       </TD>
     </TR>
  
