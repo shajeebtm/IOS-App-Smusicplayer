@@ -26,3 +26,29 @@ Main features of “S music player” are
 <p align="center">
   <img src="Images/Launch and now playing.png">
 </p>
+
+<p align="center">
+  <TABLE border=3>
+    <TR>
+       <TD style="background-color:#FF0000"> 
+        Select playlist screen 
+      </TD>
+      <TD>
+        LINE 2 COL2
+      </TD>
+    </TR>
+    <TR>
+      <TD style="background-color:#FF0000">
+         <img src="Images/Select Playlist.PNG" height="626" width="288">
+      </TD>
+      <TD>
+        <img src="Images/Select Singer.PNG" height="626" width="288">
+      </TD>
+      <TD>
+        <img src="Images/Select Composer.PNG" height="626" width="288">
+      </TD>
+    </TR>
+ 
+  </TABLE>
+</p>
+  
