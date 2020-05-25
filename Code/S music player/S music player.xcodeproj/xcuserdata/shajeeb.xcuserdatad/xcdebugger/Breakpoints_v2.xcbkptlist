@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "82CF907E-4947-4D6D-8E07-BC00DCD51852"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C441DA63-399D-4789-9759-9083A002802B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "S music player/sMusicPlayer.swift"
+            timestampString = "573804974.247957"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "updateDB(categoryAndItem:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "C441DA63-399D-4789-9759-9083A002802B - c9094cbb9f99a017"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "S_music_player.updateDB() -&gt; ()"
+                  moduleName = "S music player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shajeeb/Xcode_Swift_Projects/S%20music%20player/S%20music%20player/sMusicPlayer.swift"
+                  timestampString = "571641582.958805"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "908">
+               </Location>
+               <Location
+                  uuid = "C441DA63-399D-4789-9759-9083A002802B - d0bd082172c4d27f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.UInt64) -&gt; Swift.String in S_music_player.updateDB() -&gt; ()"
+                  moduleName = "S music player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shajeeb/Xcode_Swift_Projects/S%20music%20player/S%20music%20player/sMusicPlayer.swift"
+                  timestampString = "571641582.96074"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
