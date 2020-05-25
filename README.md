@@ -22,23 +22,27 @@ Main features of “S music player” are
 - Works with a manually managed library or Apple music managed library.
 
 
-### Screenshots
+### Screenshots - main
 <p align="center">
   <img src="Images/Launch and now playing.png">
 </p>
 
+### Screenshots - select category
 <p align="center">
   <TABLE border=3>
     <TR>
-       <TD style="background-color:#FF0000"> 
-        Select playlist screen 
+       <TD>
+        Select playlist screen
       </TD>
       <TD>
-        LINE 2 COL2
+        Select singer screen 
+      </TD>
+      <TD>
+        Select composer screen 
       </TD>
     </TR>
     <TR>
-      <TD style="background-color:#FF0000">
+      <TD border=3>
          <img src="Images/Select Playlist.PNG" height="626" width="288">
       </TD>
       <TD>
