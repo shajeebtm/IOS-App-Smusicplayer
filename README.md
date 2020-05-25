@@ -22,12 +22,13 @@ Main features of “S music player” are
 - Works with a manually managed library or Apple music managed library.
 
 
-### Screenshots - main
+### Screenshots - Main
 <p align="center">
   <img src="Images/Launch and now playing.png">
 </p>
+ 
 
-### Screenshots - select category
+### Screenshots - Choose category
 <p align="center">
   <TABLE border=3>
     <TR>
@@ -55,4 +56,34 @@ Main features of “S music player” are
  
   </TABLE>
 </p>
+
+### Screenshots - History management
+<p align="center">
+  <TABLE border=3>
+    <TR>
+       <TD>
+        View history
+      </TD>
+      <TD>
+        Delete history
+      </TD>
+      <TD>
+        Select composer screen 
+      </TD>
+    </TR>
+    <TR>
+      <TD border=3>
+         <img src="Images/Manage History.PNG" height="626" width="288">
+      </TD>
+      <TD>
+        <img src="Images/Manage History - Delete.PNG" height="626" width="288">
+      </TD>
+      <TD>
+        <img src="Images/Select Composer.PNG" height="626" width="288">
+      </TD>
+    </TR>
+ 
+  </TABLE>
+</p>
+  
   
