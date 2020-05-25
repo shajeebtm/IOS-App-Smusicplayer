@@ -1,5 +1,5 @@
 # Smusicplayer
-A music player for IOS devices which can record history of last played tracks
+A music player for IOS devices which can record history of last played tracks in every catgory and groups.
 
 <p align="center">
   <img src="Images/S_MusicPlayer_icon_3x.png">
