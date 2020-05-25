@@ -11,7 +11,7 @@ I do have lots of songs in my  collection , consisting of hundreds of singers, c
 
 This made me think of developing a music player which can record the last item played in each category  & group. 
 
-Main features of “S music player” are
+**Main features of “S music player” are**
 
 - A database is maintained for storing the last played item . An entry is  created for every grouping in each category (Playlists,  Composer , Lyricist , Singer)
 - History  data is browsable , can resume any item  and can delete any item from history.
@@ -21,14 +21,16 @@ Main features of “S music player” are
 - Upon restarting , the app  automatically loads the last played song, ready to start from there.
 - Works with a manually managed library or Apple music managed library.
 
-
+<br/>
+<br/>
 
 ### Screenshots - Main
 <p align="center">
   <img src="Images/Launch and now playing.png">
 </p>
  
-
+<br/>
+<br/>
 
 ### Screenshots - Choose category
 <p align="center">
@@ -62,7 +64,8 @@ Main features of “S music player” are
 <p align="center">
 </p>
 
-
+<br/>
+<br/>
 
 ### Screenshots - History management
 <p align="center">
@@ -93,7 +96,8 @@ Main features of “S music player” are
   </TABLE>
 </p>
   
-  
+<br/>
+<br/>
   
 ### Details of View controllers , Database model and the program flow
 <p align="center">
