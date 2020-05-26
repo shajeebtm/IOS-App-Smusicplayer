@@ -27,7 +27,7 @@ This made me think of developing a music player which can record the last item p
 <br/>
 <br/>
 
-### Screenshots - Main
+### [Screenshots - Main] (#)
 <p align="center">
   <img src="Images/Launch and now playing.png">
 </p>
@@ -35,7 +35,7 @@ This made me think of developing a music player which can record the last item p
 <br/>
 <br/>
 
-### Screenshots - Choose category
+### [Screenshots - Choose category] (#)
 <p align="center">
   <TABLE border=3>
     <TR>
@@ -70,7 +70,7 @@ This made me think of developing a music player which can record the last item p
 <br/>
 <br/>
 
-### Screenshots - History management
+### [Screenshots - History management] (#)
 <p align="center">
   <TABLE border=3>
     <TR>
