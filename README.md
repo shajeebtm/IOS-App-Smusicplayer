@@ -1,4 +1,7 @@
-# Smusicplayer
+
+<p align="left">
+  <img src="Images/Smusicplayer.png">
+</p>
 A music player for IOS devices which can record history of last played tracks in every catgory and groups.
 
 <p align="center">
