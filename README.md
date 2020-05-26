@@ -102,7 +102,7 @@ This made me think of developing a music player which can record the last item p
 <br/>
 <br/>
   
-### Details of View controllers , Database model and the program flow
+### [Details of View controllers , Database model and the program flow](#)
 <p align="center">
   <img src="Images/S music player - flow.png">
 </p>
