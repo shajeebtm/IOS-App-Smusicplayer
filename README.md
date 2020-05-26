@@ -37,7 +37,7 @@ This made me think of developing a music player which can record the last item p
   <TABLE border=3>
     <TR>
        <TD>
-        Select playlist screen
+        <img src="Images/select playlist screen_1.png" width="288">
       </TD>
       <TD>
         Select singer screen 
