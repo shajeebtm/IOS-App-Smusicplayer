@@ -37,13 +37,13 @@ This made me think of developing a music player which can record the last item p
   <TABLE border=3>
     <TR>
        <TD>
-        <img src="Images/select playlist screen_1.png" width="288">
+         <p align="center"> <img src="Images/select playlist screen_2.png" > </p>
       </TD>
       <TD>
-        Select singer screen 
+        <p align="center"> <img src="Images/select singer screen_2.png"> </p>
       </TD>
       <TD>
-        Select composer screen 
+        <p align="center"> <img src="Images/select composer screen_2.png" > </p>
       </TD>
     </TR>
     <TR>
@@ -72,13 +72,13 @@ This made me think of developing a music player which can record the last item p
   <TABLE border=3>
     <TR>
        <TD>
-        View history screen
+        <p align="center"> <img src="Images/view history screen_2.png" > </p>
       </TD>
       <TD>
-        Delete history screen
+        <p align="center"> <img src="Images/delete history screen_2.png" > </p>
       </TD>
       <TD>
-        Select song from category screen 
+        <p align="center"> <img src="Images/select song from category screen_2.png" > </p> 
       </TD>
     </TR>
     <TR>
