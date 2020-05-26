@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img src="Images/Smusicplayer.png">
+  <img src="Images/Smusicplayer_1.png">
 </p>
 A music player for IOS devices which can record history of last played tracks in every catgory and groups.
 
